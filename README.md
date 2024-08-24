@@ -28,7 +28,7 @@ googletrans
 
 Clone the repository:
 
-git clone https://github.com/your-username/AI-Image-Description-Translation.git
+git clone https://github.com/Kolli1999/AI-Image-Description-Translation.git
 
 Navigate to the project directory:
 
